@@ -12,3 +12,6 @@ permissions:
                     repair.all:
                         default: op
                         description: "Repair And Fix All Inventory Items"
+                    repair.armor:
+                        default: op
+                        description: "Repair And Fix All Your Gear And Items While Wearing It"
