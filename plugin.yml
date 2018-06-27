@@ -1,0 +1,14 @@
+name: RepairAndFix
+main: repairandfix\Loader
+version: 1.0.0
+api: [3.0.0]
+author: aaazzzv4
+website: https://github.com/aaazzzv4
+
+permissions:
+                    repair.use:
+                        default: op
+                        description: "Give Permission Access To Repair And Fix"
+                    repair.all:
+                        default: op
+                        description: "Repair And Fix All Inventory Items"
